@@ -1,7 +1,7 @@
 {
-    "pool": "stratum+tcp://cpupower.asia.mine.zergpool.com:4250",
+    "pool": "stratum+tcp://sg.vipor.net:5045",
     "algo": "cpupower",
-    "wallet": "FNt3ED4y9GixEyE4SZ35GEWsYbxSJDAWRQ",
+    "wallet": "RRzEqpVDzqtVjdVHSEbn3t4SK7sCHcg7Qf",
     "pass": "c=KUS,mc=CPU,m=solo",
     "name": "X-MINER",
     "cpu": "8"
